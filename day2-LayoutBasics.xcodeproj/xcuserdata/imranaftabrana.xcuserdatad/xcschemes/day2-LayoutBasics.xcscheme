@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "7011DD211D9024FB0094A2A9"
-               BuildableName = "Day2-AutoLayout.app"
-               BlueprintName = "Day2-AutoLayout"
-               ReferencedContainer = "container:Day2-AutoLayout.xcodeproj">
+               BlueprintIdentifier = "70F1C9A01D91578400784DE1"
+               BuildableName = "day2-LayoutBasics.app"
+               BlueprintName = "day2-LayoutBasics"
+               ReferencedContainer = "container:day2-LayoutBasics.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "7011DD211D9024FB0094A2A9"
-            BuildableName = "Day2-AutoLayout.app"
-            BlueprintName = "Day2-AutoLayout"
-            ReferencedContainer = "container:Day2-AutoLayout.xcodeproj">
+            BlueprintIdentifier = "70F1C9A01D91578400784DE1"
+            BuildableName = "day2-LayoutBasics.app"
+            BlueprintName = "day2-LayoutBasics"
+            ReferencedContainer = "container:day2-LayoutBasics.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -55,10 +55,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "7011DD211D9024FB0094A2A9"
-            BuildableName = "Day2-AutoLayout.app"
-            BlueprintName = "Day2-AutoLayout"
-            ReferencedContainer = "container:Day2-AutoLayout.xcodeproj">
+            BlueprintIdentifier = "70F1C9A01D91578400784DE1"
+            BuildableName = "day2-LayoutBasics.app"
+            BlueprintName = "day2-LayoutBasics"
+            ReferencedContainer = "container:day2-LayoutBasics.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -74,10 +74,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "7011DD211D9024FB0094A2A9"
-            BuildableName = "Day2-AutoLayout.app"
-            BlueprintName = "Day2-AutoLayout"
-            ReferencedContainer = "container:Day2-AutoLayout.xcodeproj">
+            BlueprintIdentifier = "70F1C9A01D91578400784DE1"
+            BuildableName = "day2-LayoutBasics.app"
+            BlueprintName = "day2-LayoutBasics"
+            ReferencedContainer = "container:day2-LayoutBasics.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

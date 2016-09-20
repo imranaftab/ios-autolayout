@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  Day2-AutoLayout
+//  day2-LayoutBasics
 //
-//  Created by Imran Aftab Rana on 19/09/2016.
+//  Created by Imran Aftab Rana on 20/09/2016.
 //  Copyright © 2016 Imran Aftab Rana. All rights reserved.
 //
 

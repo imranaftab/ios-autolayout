@@ -4,7 +4,7 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>Day2-AutoLayout.xcscheme</key>
+		<key>day2-LayoutBasics.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -12,7 +12,7 @@
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>7011DD211D9024FB0094A2A9</key>
+		<key>70F1C9A01D91578400784DE1</key>
 		<dict>
 			<key>primary</key>
 			<true/>
